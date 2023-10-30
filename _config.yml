@@ -2,8 +2,9 @@ title: Jekyll:iä käyttävä sivusto
 description: Tervetuloa sivustolle!
 theme: jekyll-theme-cayman
 
-plugins:
-  - jekyll-feed
+header_pages:
+- index.md
+- vko2.md
 
 twitter_username: harjunmaa
 github_username: Ismo-HH
