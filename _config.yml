@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto S2024
 description: Tervetuloa sivustolle!
-theme: midnight
+theme: jekyll-theme-midnight
 
 header_pages:
 - index.md
