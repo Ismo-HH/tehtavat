@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto S2024
 description: Tervetuloa sivustolle!
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
 
 header_pages:
 - index.md
