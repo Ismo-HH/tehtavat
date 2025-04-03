@@ -1,6 +1,6 @@
 title: Jekyll:iä käyttävä sivusto K2025
 description: Tervetuloa sivustolle!
-theme: no-style-please
+theme: jekyll-theme-cayman
 
 header_pages:
 - index.md
