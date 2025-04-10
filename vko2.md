@@ -1,2 +1,2 @@
 ### Viikon 2 tehtävä
-Tekstiä, [linkki](index.md)
+Kevään 2025 toteutuksella tehty tehtävävastaus, [linkki](index.md)
