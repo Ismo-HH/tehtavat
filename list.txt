@@ -1,12 +1,12 @@
- Volume in drive C has no label.
+ Volume in drive C has no label
  Volume Serial Number is E87C-CC10
 
  Directory of C:\Users\h02114\Projects\tehtavat
 
 23.10.2023  19:44    <DIR>          .
 23.10.2023  19:44    <DIR>          ..
-23.10.2023  19:41             1ÿ092 LICENSE
+23.10.2023  19:41             1Ã¿092 LICENSE
 23.10.2023  19:44                 0 list.txt
 23.10.2023  19:41                14 README.md
-               3 File(s)          1ÿ106 bytes
-               2 Dir(s)  18ÿ485ÿ407ÿ744 bytes free
+               3 File(s)          1Ã¿106 bytes
+               2 Dir(s)  18Ã¿485Ã¿407Ã¿744 bytes free
