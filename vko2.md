@@ -1,2 +1,3 @@
 ### Viikon 2 tehtävä
-Tekstiä, [linkki](index.md)
+Syksyn 2025 toteutuksella tehty tehtävävastaus, 
+[linkki takaisin](index.md)
